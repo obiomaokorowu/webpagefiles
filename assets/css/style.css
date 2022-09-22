@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
 
-    Template Name: Techmax - Technology IT Solutions Consultancy HTML5 Template
+    Template Name: RealCloud & DevOps - Technology IT Solutions Consultancy HTML5 Template
     Template URI: https://thepixelcurve.com/
     Description: A Library of Responsive Bootstrap5, HTML5, and CSS3 Website Templates
     Author: Raistheme
@@ -400,11 +400,11 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   margin-bottom: 12px;
 }
 
-.techmax-pagination .pagination .page-item {
+.RealCloud & DevOps-pagination .pagination .page-item {
   margin: 0 3px;
 }
 
-.techmax-pagination .pagination .page-item .page-link {
+.RealCloud & DevOps-pagination .pagination .page-item .page-link {
   width: 35px;
   height: 35px;
   padding: 0;
@@ -421,20 +421,20 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   transition: all 0.3s linear;
 }
 
-.techmax-pagination .pagination .page-item .page-link:focus {
+.RealCloud & DevOps-pagination .pagination .page-item .page-link:focus {
   box-shadow: none;
 }
 
-.techmax-pagination .pagination .page-item .page-link:hover {
+.RealCloud & DevOps-pagination .pagination .page-item .page-link:hover {
   background: #005de0;
   color: #ffffff;
 }
 
-.techmax-pagination .pagination .page-item .page-link i {
+.RealCloud & DevOps-pagination .pagination .page-item .page-link i {
   font-size: 12px;
 }
 
-.techmax-pagination .pagination .page-item.active .page-link {
+.RealCloud & DevOps-pagination .pagination .page-item.active .page-link {
   background: #005de0;
   color: #ffffff;
 }
